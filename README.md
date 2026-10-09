@@ -76,8 +76,8 @@ I build things across the stack — from STM32 firmware to .NET desktop apps to 
 
 <div align="center">
 
-[![Luck-ai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luck-ai&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE&bg_color=0E1626)](https://github.com/Luck-ai)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luck-ai&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=0E1626)](https://github.com/Luck-ai)
+[![Luck-ai's GitHub stats](https://github-stats-extended.vercel.app/api?username=Luck-ai&show_icons=true&hide_border=true&theme=tokyonight&icon_color=22D3EE&title_color=22D3EE&bg_color=0E1626)](https://github.com/Luck-ai)
+[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Luck-ai&layout=compact&hide_border=true&theme=tokyonight&title_color=22D3EE&bg_color=0E1626)](https://github.com/Luck-ai)
 
 </div>
 
